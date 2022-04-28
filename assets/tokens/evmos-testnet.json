@@ -1,0 +1,42 @@
+[
+  {
+    "name": "WEVMOS Token",
+    "symbol": "WEVMOS",
+    "address": "0x3d486E0fBa11f6F929E99a47037A5cd615636E17",
+    "chainId": 9000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos-testnet/0x3d486E0fBa11f6F929E99a47037A5cd615636E17/logo.png"
+  },
+  {
+    "name": "EvmoSwap Token",
+    "symbol": "EMO",
+    "address": "0x7cBa32163a8f4c56C846f5C3685E3b7a450c9002",
+    "chainId": 9000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos-testnet/0x7cBa32163a8f4c56C846f5C3685E3b7a450c9002/logo.png"
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0xae95d4890bf4471501E0066b6c6244E1CAaEe791",
+    "chainId": 9000,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos-testnet/0xae95d4890bf4471501E0066b6c6244E1CAaEe791/logo.png"
+  },
+  {
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "address": "0x397F8aBd481B7c00883fb70da2ea5Ae70999c37c",
+    "chainId": 9000,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos-testnet/0x397F8aBd481B7c00883fb70da2ea5Ae70999c37c/logo.png"
+  },
+  {
+    "name": "DAI",
+    "symbol": "DAI",
+    "address": "0x7c4a1D38A755a7Ce5521260e874C009ad9e4Bf9c",
+    "chainId": 9000,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos-testnet/0x7c4a1D38A755a7Ce5521260e874C009ad9e4Bf9c/logo.png"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "WBNB Token",
+    "symbol": "WBNB",
+    "address": "0xab0D0540b724D7A1BCF64A651fc245BEDb11C091",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/bsc-testnet/0xab0D0540b724D7A1BCF64A651fc245BEDb11C091/logo.png"
+  },
+  {
+    "name": "EvmoSwap Token",
+    "symbol": "EMO",
+    "address": "0xd41223b4Ed7e68275D3C567c237217Fbb2575568",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/bsc-testnet/0xd41223b4Ed7e68275D3C567c237217Fbb2575568/logo.png"
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0x9b5bb7F5BE680843Bcd3B54D4E5C6eE889c124Df",
+    "chainId": 97,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/bsc-testnet/0x9b5bb7F5BE680843Bcd3B54D4E5C6eE889c124Df/logo.png"
+  },
+  {
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "address": "0x648D3d969760FDabc71ea9d59c020AD899237b32",
+    "chainId": 97,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/bsc-testnet/0x648D3d969760FDabc71ea9d59c020AD899237b32/logo.png"
+  },
+  {
+    "name": "DAI",
+    "symbol": "DAI",
+    "address": "0x6456d6f7B224283f8B22F03347B58D8B6d975677",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/bsc-testnet/0x6456d6f7B224283f8B22F03347B58D8B6d975677/logo.png"
+  }
+]
