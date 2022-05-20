@@ -1,7 +1,7 @@
 {
   "name": "@evmoswap/default-token-list",
   "license": "MIT",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "description": "◦ The EvmoSwap default token list",
   "main": "build/evmoswap-default.tokenlist.json",
   "scripts": {

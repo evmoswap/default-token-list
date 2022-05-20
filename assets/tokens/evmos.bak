@@ -201,5 +201,29 @@
     "chainId": 9001,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D/logo.png"
+  },
+  {
+    "name": "EVTomb.finance",
+    "symbol": "EVTOMB",
+    "address": "0x8F61F40615b545693dC7Ea6A6836146aCD8e42e9",
+    "chainId": 9001,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0x8F61F40615b545693dC7Ea6A6836146aCD8e42e9/logo.png"
+  },
+  {
+    "name": "EVTomb - EVSHARE",
+    "symbol": "EVSHARE",
+    "address": "0x6957b60244954be36BbcF05EC17F0Fe47A228aa9",
+    "chainId": 9001,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0x6957b60244954be36BbcF05EC17F0Fe47A228aa9/logo.png"
+  },
+  {
+    "name": "EVTomb - EDOGE",
+    "symbol": "EDOGE",
+    "address": "0x046cb616d7a52173e4Da9efF1BFd590550aa3228",
+    "chainId": 9001,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0x046cb616d7a52173e4Da9efF1BFd590550aa3228/logo.png"
   }
 ]

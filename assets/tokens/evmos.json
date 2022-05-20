@@ -73,6 +73,46 @@
   },
 
   {
+    "name": "USD Coin - Celer",
+    "symbol": "ceUSDC",
+    "address": "0xe46910336479F254723710D57e7b683F3315b22B",
+    "chainId": 9001,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0xe46910336479F254723710D57e7b683F3315b22B/logo.png"
+  },
+  {
+    "name": "Tether USD - Celer",
+    "symbol": "ceUSDT",
+    "address": "0xb72A7567847abA28A2819B855D7fE679D4f59846",
+    "chainId": 9001,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0xb72A7567847abA28A2819B855D7fE679D4f59846/logo.png"
+  },
+  {
+    "name": "DAI Stablecoin - Celer",
+    "symbol": "ceDAI",
+    "address": "0x940dAAbA3F713abFabD79CdD991466fe698CBe54",
+    "chainId": 9001,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0x940dAAbA3F713abFabD79CdD991466fe698CBe54/logo.png"
+  },
+  {
+    "name": "Wrapped BTC - Celer",
+    "symbol": "ceWBTC",
+    "address": "0xb98e169C37ce30Dd47Fdad1f9726Fb832191e60b",
+    "chainId": 9001,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0xb98e169C37ce30Dd47Fdad1f9726Fb832191e60b/logo.png"
+  },
+  {
+    "name": "Wrapped Ether - Celer",
+    "symbol": "ceWETH",
+    "address": "0x153A59d48AcEAbedbDCf7a13F67Ae52b434B810B",
+    "chainId": 9001,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0x153A59d48AcEAbedbDCf7a13F67Ae52b434B810B/logo.png"
+  },
+  {
     "name": "BUSD - Celer",
     "symbol": "ceBUSD",
     "address": "0x516e6D96896Aea92cE5e78B0348FD997F13802ad",
@@ -103,6 +143,55 @@
     "chainId": 9001,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0x729416B1F442f204989f1C9f0d58321F878808eD/logo.png"
+  },
+  {
+    "name": "CELR - Celer",
+    "symbol": "CELR",
+    "address": "0xFe6998C5c22936CCa749b14Fcf5F190398cfa8F8",
+    "chainId": 9001,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0xFe6998C5c22936CCa749b14Fcf5F190398cfa8F8/logo.png"
+  },
+
+  {
+    "name": "USD Coin - MultiChain",
+    "symbol": "mulUSDC",
+    "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
+    "chainId": 9001,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e/logo.png"
+  },
+  {
+    "name": "Tether USD - MultiChain",
+    "symbol": "mulUSDT",
+    "address": "0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
+    "chainId": 9001,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4/logo.png"
+  },
+  {
+    "name": "DAI Stablecoin - MultiChain",
+    "symbol": "mulDAI",
+    "address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
+    "chainId": 9001,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0x461d52769884ca6235B685EF2040F47d30C94EB5/logo.png"
+  },
+  {
+    "name": "Wrapped BTC - MultiChain",
+    "symbol": "mulWBTC",
+    "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+    "chainId": 9001,
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/logo.png"
+  },
+  {
+    "name": "Wrapped Ether - MultiChain",
+    "symbol": "mulWETH",
+    "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
+    "chainId": 9001,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D/logo.png"
   },
   {
     "name": "EVTomb.finance",
