@@ -113,6 +113,15 @@
     "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0x153A59d48AcEAbedbDCf7a13F67Ae52b434B810B/logo.png"
   },
   {
+    "name": "ATOM Coin",
+    "symbol": "ATOM",
+    "address": "0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6",
+    "chainId": 9001,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0xC5e00D3b04563950941f7137B5AfA3a534F0D6d6/logo.png"
+  },
+
+  {
     "name": "BUSD - Celer",
     "symbol": "ceBUSD",
     "address": "0x516e6D96896Aea92cE5e78B0348FD997F13802ad",
