@@ -225,5 +225,13 @@
     "chainId": 9001,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0x046cb616d7a52173e4Da9efF1BFd590550aa3228/logo.png"
+  },
+  {
+    "name": "GUARDIAN",
+    "symbol": "GRDN",
+    "address": "0x0A88F465eA5079C39d88EA796A018604E2C00d56",
+    "chainId": 9001,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos/0x0A88F465eA5079C39d88EA796A018604E2C00d56/logo.png"
   }
 ]
